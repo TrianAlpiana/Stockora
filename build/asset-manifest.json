@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.8dc96159.js",
-    "index.html": "/index.html",
-    "main.8dc96159.js.map": "/static/js/main.8dc96159.js.map"
+    "main.js": "/stokin/static/js/main.8dc96159.js",
+    "index.html": "/stokin/index.html",
+    "main.8dc96159.js.map": "/stokin/static/js/main.8dc96159.js.map"
   },
   "entrypoints": [
     "static/js/main.8dc96159.js"
